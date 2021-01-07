@@ -1,18 +1,18 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Siddharth Pathak",
         "label": "Programmer",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "email": "pathaksiddarth@hotmail.com",
+        "phone": "(250) 514-0601",
+        "website": "http://siddharthpk.me",
+        "summary": "A summary of Siddharth Pathak...",
         "location": {
             "address": "2712 Broadway St",
             "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "city": "Victoria",
+            "countryCode": "Canada",
+            "region": "British Columbia"
         },
         "profiles": [
             {
@@ -24,30 +24,29 @@
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
+            "name": "UVic Cognitive Psychology Lab",
+            "position": "Research Assistant",
+            "website": "http://www.uvic.ca",
+            "startDate": "2020-12",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Victoria, BC",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
+            "name": "UVic Vikes Althletics",
+            "position": "Web Developer",
+            "website": "http://www.govikesgo.com",
+            "startDate": "2013-11",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Victoria, BC",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
+            "name": "CGI Inc.",
+            "position": "Technical Analyst Co-op",
+            "website": "http://www.cgi.com",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Victoria, BC",
             "highlights": ["Started the company"]
         }
     ],
@@ -63,29 +62,19 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
+            "institution": "University of Victoria",
+            "area": "Computer Science & Math",
+            "studyType": "BSc",
+            "startDate": "2016-09-06",
             "endDate": "",
-            "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }
     ],
     "awards": [
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
+            "title": "CGI Bravo Award",
+            "date": "2019-08",
+            "awarder": "CGI Inc.",
             "summary": "There is no spoon."
         }
     ],
@@ -100,43 +89,67 @@
     ],
     "skills": [
         {
-            "name": "Reactaaa",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
+            "name": "JavaScript",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "NodeJS",
+            "name": "Java",
             "level": "Master",
-            "value": 40,
+            "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "Python",
             "level": "Master",
             "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
+            "name": "React",
             "level": "Master",
-            "value": 20,
+            "value": 50,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
+            "name": "NodeJS",
+            "level": "Master",
+            "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Express",
+            "level": "Master",
+            "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "PostgreSQL",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Django",
+            "level": "Master",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        { 
+            "language": "English", 
+            "value": 100, 
+            "fluency": "Native speaker" 
+        },
+        {
+            "language": "Hindi", 
+            "value": 100, 
+            "fluency": "Native speaker" 
+        }
+        
+        ],
     "interests": [
         {
             "name": "France europe gif by nike football",
@@ -246,7 +259,7 @@
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
+                { "name": "San Francisco, US" },
                 { "name": "Lille, France" },
                 { "name": "Paris,France" },
                 { "name": "Paris,France" },
@@ -280,13 +293,11 @@
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
             { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
             { "type": "soundtrack", "variant": 4 }
         ],
